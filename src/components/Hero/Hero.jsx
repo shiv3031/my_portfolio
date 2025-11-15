@@ -1,7 +1,7 @@
 import React from "react";
 import "./Hero.css";
 import profile_img from "../../assets/dev.jpg";
-import ShivResume from "../../assets/ShivResume.pdf";
+import ShivResume from "../../assets/SHIVKUMAR_RESUME.pdf";
 import AnchorLink from "react-anchor-link-smooth-scroll";
 
 const Hero = () => {
